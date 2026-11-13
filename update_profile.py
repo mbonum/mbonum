@@ -146,7 +146,7 @@ def loc(repo_names, user_id):
                 cursor = h["pageInfo"]["endCursor"]
         except Exception as e:
             print(f"loc {name}: {e}")
-    return {"loc_add": add, "loc_del": rem, "loc": add - rem}
+    return {"loc_add": add, "loc_del": rem, "loc": add + rem}
 
 
 PALETTES = {
