@@ -29,18 +29,12 @@
 <text x="25" y="430" fill="#57606a" xml:space="preserve">*:        =*  :%           %=  +* =+</text>
 <text x="410" y="45" xml:space="preserve"><tspan fill="#0969da">mbonum@github </tspan><tspan fill="#afb8c1">──────────────────────────────────────────</tspan></text>
 <text x="410" y="87" xml:space="preserve"><tspan fill="#953800">OS: </tspan><tspan fill="#afb8c1">............................... </tspan><tspan fill="#24292f">Windows, Linux (WSL)</tspan></text>
-<text x="410" y="108" xml:space="preserve"><tspan fill="#953800">Uptime: </tspan><tspan fill="#afb8c1">..................... </tspan><tspan fill="#24292f">4 years, 3 months, 21 days</tspan></text>
-<text x="410" y="129" xml:space="preserve"><tspan fill="#953800">Host: </tspan><tspan fill="#afb8c1">......................................... </tspan><tspan fill="#24292f">Dontouch</tspan></text>
-<text x="410" y="150" xml:space="preserve"><tspan fill="#953800">Kernel: </tspan><tspan fill="#afb8c1">............................. </tspan><tspan fill="#24292f">SDET / QA Engineer</tspan></text>
-<text x="410" y="171" xml:space="preserve"><tspan fill="#953800">IDE: </tspan><tspan fill="#afb8c1">.............................. </tspan><tspan fill="#24292f">Claude Code, VS Code</tspan></text>
-<text x="410" y="213" xml:space="preserve"><tspan fill="#953800">Languages.Programming: </tspan><tspan fill="#afb8c1">.. </tspan><tspan fill="#24292f">Python, TypeScript, JavaScript</tspan></text>
-<text x="410" y="234" xml:space="preserve"><tspan fill="#953800">Languages.Real: </tspan><tspan fill="#afb8c1">............... </tspan><tspan fill="#24292f">Italian, English, German</tspan></text>
-<text x="410" y="255" xml:space="preserve"><tspan fill="#953800">Hobbies: </tspan><tspan fill="#afb8c1">........................... </tspan><tspan fill="#24292f">3D modeling, Design</tspan></text>
-<text x="410" y="297" xml:space="preserve"><tspan fill="#0969da">─ Contact </tspan><tspan fill="#afb8c1">──────────────────────────────────────────────</tspan></text>
-<text x="410" y="318" xml:space="preserve"><tspan fill="#953800">Website: </tspan><tspan fill="#afb8c1">.................................. </tspan><tspan fill="#24292f">mgb.is-a.dev</tspan></text>
-<text x="410" y="339" xml:space="preserve"><tspan fill="#953800">Location: </tspan><tspan fill="#afb8c1">.................................. </tspan><tspan fill="#24292f">Switzerland</tspan></text>
-<text x="410" y="381" xml:space="preserve"><tspan fill="#0969da">─ GitHub Stats </tspan><tspan fill="#afb8c1">─────────────────────────────────────────</tspan></text>
-<text x="410" y="402" xml:space="preserve"><tspan fill="#953800">Repos: </tspan><tspan fill="#afb8c1">... </tspan><tspan fill="#24292f">13 {Contributed: 0}</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Stars: </tspan><tspan fill="#afb8c1">.............. </tspan><tspan fill="#24292f">0</tspan></text>
-<text x="410" y="423" xml:space="preserve"><tspan fill="#953800">Commits: </tspan><tspan fill="#afb8c1">.................. </tspan><tspan fill="#24292f">87</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Followers: </tspan><tspan fill="#afb8c1">.......... </tspan><tspan fill="#24292f">1</tspan></text>
-<text x="410" y="444" xml:space="preserve"><tspan fill="#953800">Lines of Code: </tspan><tspan fill="#afb8c1">..... </tspan><tspan fill="#24292f">2,175,739</tspan><tspan fill="#afb8c1"> ( </tspan><tspan fill="#1a7f37">69,273++</tspan><tspan fill="#afb8c1">, </tspan><tspan fill="#cf222e">2,106,466--</tspan><tspan fill="#afb8c1"> )</tspan></text>
+<text x="410" y="108" xml:space="preserve"><tspan fill="#953800">Uptime: </tspan><tspan fill="#afb8c1">..................... </tspan><tspan fill="#24292f">4 years, 3 months, 22 days</tspan></text>
+<text x="410" y="129" xml:space="preserve"><tspan fill="#953800">Kernel: </tspan><tspan fill="#afb8c1">.............................. </tspan><tspan fill="#24292f">Software Engineer</tspan></text>
+<text x="410" y="171" xml:space="preserve"><tspan fill="#953800">Languages.Programming: </tspan><tspan fill="#afb8c1">.............. </tspan><tspan fill="#24292f">Python, TypeScript</tspan></text>
+<text x="410" y="192" xml:space="preserve"><tspan fill="#953800">Languages.Real: </tspan><tspan fill="#afb8c1">....................... </tspan><tspan fill="#24292f">English, Italian</tspan></text>
+<text x="410" y="213" xml:space="preserve"><tspan fill="#953800">Hobbies: </tspan><tspan fill="#afb8c1">........................... </tspan><tspan fill="#24292f">3D modeling, Design</tspan></text>
+<text x="410" y="255" xml:space="preserve"><tspan fill="#0969da">─ Contact </tspan><tspan fill="#afb8c1">──────────────────────────────────────────────</tspan></text>
+<text x="410" y="276" xml:space="preserve"><tspan fill="#953800">Website: </tspan><tspan fill="#afb8c1">.................................. </tspan><tspan fill="#24292f">mgb.is-a.dev</tspan></text>
+<text x="410" y="297" xml:space="preserve"><tspan fill="#953800">Location: </tspan><tspan fill="#afb8c1">.................................. </tspan><tspan fill="#24292f">Switzerland</tspan></text>
 </svg>
