@@ -186,7 +186,7 @@ def info_lines(s):
         [],
         kv("Languages.Programming", "Python, TypeScript"),
         kv("Languages.Real", "English, Italian"),
-        kv("Hobbies", "3D modeling, Design"),
+        kv("Hobbies", "Writing"),
         [],
         rule("Contact"),
         kv("Website", "mgb.is-a.dev"),
